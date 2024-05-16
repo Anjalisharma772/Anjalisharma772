@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Anjalisharma772
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development 
+- 👋 Hi, I’m Anjali Sharma 
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
